@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# TagAlong
+Tag along with friends
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Development
 ## Available Scripts
 
 In the project directory, you can run:
